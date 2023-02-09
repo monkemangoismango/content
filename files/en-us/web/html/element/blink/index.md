@@ -25,7 +25,7 @@ This element is unsupported and thus implements the {{domxref("HTMLUnknownElemen
 ## Example
 
 ```html
-<blink>Why would somebody use this?</blink>
+<blink>FREDDY FAZBEAR</blink>
 ```
 
 ### Result (toned down!)
